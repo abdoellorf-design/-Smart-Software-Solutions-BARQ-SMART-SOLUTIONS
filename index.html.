@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BARQ Smart Solutions</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-black text-white overflow-x-hidden">
+
+  <!-- Hero Section -->
+  <section class="relative px-6 lg:px-20 py-24">
+    <div class="absolute inset-0 bg-gradient-to-br from-blue-600/20 via-cyan-500/10 to-transparent blur-3xl"></div>
+
+    <div class="relative max-w-7xl mx-auto grid lg:grid-cols-2 gap-16 items-center">
+      <div>
+        <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-cyan-500/30 bg-cyan-500/10 text-cyan-300 text-sm mb-6">
+          ⚡ Smart Software Solutions
+        </div>
+
+        <h1 class="text-5xl lg:text-7xl font-black leading-tight mb-6">
+          BARQ
+          <span class="block text-cyan-400">SMART SOLUTIONS</span>
+        </h1>
+
+        <p class="text-gray-300 text-lg leading-8 max-w-xl mb-8">
+          We build powerful software systems, restaurant management platforms,
+          websites, and mobile applications designed to help businesses grow faster.
+        </p>
+
+        <div class="flex flex-wrap gap-4">
+          <button class="px-7 py-4 rounded-2xl bg-cyan-400 text-black font-bold hover:scale-105 transition">
+            Get Started
+          </button>
+
+          <button class="px-7 py-4 rounded-2xl border border-white/20 hover:bg-white/10 transition">
+            View Projects
+          </button>
+        </div>
+      </div>
+
+      <div class="relative">
+        <div class="absolute inset-0 bg-cyan-500/20 blur-3xl rounded-full"></div>
+
+        <div class="relative bg-white/5 backdrop-blur-xl border border-white/10 rounded-[32px] p-8 shadow-2xl">
+          <div class="space-y-6">
+            <div class="flex items-center justify-between">
+              <div>
+                <p class="text-gray-400 text-sm">Active Clients</p>
+                <h3 class="text-3xl font-bold">24+</h3>
+              </div>
+
+              <div class="w-14 h-14 rounded-2xl bg-cyan-400 flex items-center justify-center text-black text-2xl font-bold">
+                ⚡
+              </div>
+            </div>
+
+            <div class="grid grid-cols-2 gap-4">
+              <div class="bg-black/30 rounded-2xl p-5 border border-white/10">
+                <h4 class="text-2xl font-bold mb-2">99%</h4>
+                <p class="text-gray-400 text-sm">Client Satisfaction</p>
+              </div>
+
+              <div class="bg-black/30 rounded-2xl p-5 border border-white/10">
+                <h4 class="text-2xl font-bold mb-2">15+</h4>
+                <p class="text-gray-400 text-sm">Projects Delivered</p>
+              </div>
+            </div>
+
+            <div class="bg-gradient-to-r from-cyan-500 to-blue-600 rounded-3xl p-6 text-black">
+              <p class="font-semibold mb-2">Modern Digital Experience</p>
+              <h3 class="text-3xl font-black leading-tight">
+                Websites + Apps + Systems
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Services -->
+  <section class="px-6 lg:px-20 py-20">
+    <div class="max-w-7xl mx-auto">
+      <div class="mb-14">
+        <p class="text-cyan-400 font-semibold mb-3">OUR SERVICES</p>
+        <h2 class="text-4xl lg:text-5xl font-black">What We Build</h2>
+      </div>
+
+      <div class="grid md:grid-cols-2 xl:grid-cols-4 gap-6">
+
+        <div class="bg-white/5 border border-white/10 rounded-3xl p-7 hover:-translate-y-2 transition duration-300">
+          <div class="w-14 h-14 rounded-2xl bg-cyan-400/20 text-cyan-300 flex items-center justify-center text-2xl mb-6">⚡</div>
+          <h3 class="text-2xl font-bold mb-4">Restaurant Systems</h3>
+          <p class="text-gray-400 leading-7">Smart POS systems, order management, delivery integration, and table management solutions.</p>
+        </div>
+
+        <div class="bg-white/5 border border-white/10 rounded-3xl p-7 hover:-translate-y-2 transition duration-300">
+          <div class="w-14 h-14 rounded-2xl bg-cyan-400/20 text-cyan-300 flex items-center justify-center text-2xl mb-6">⚡</div>
+          <h3 class="text-2xl font-bold mb-4">Web Development</h3>
+          <p class="text-gray-400 leading-7">Professional websites and modern web applications built for speed and performance.</p>
+        </div>
+
+        <div class="bg-white/5 border border-white/10 rounded-3xl p-7 hover:-translate-y-2 transition duration-300">
+          <div class="w-14 h-14 rounded-2xl bg-cyan-400/20 text-cyan-300 flex items-center justify-center text-2xl mb-6">⚡</div>
+          <h3 class="text-2xl font-bold mb-4">Mobile Applications</h3>
+          <p class="text-gray-400 leading-7">Android & iOS applications with modern UI/UX and scalable architecture.</p>
+        </div>
+
+        <div class="bg-white/5 border border-white/10 rounded-3xl p-7 hover:-translate-y-2 transition duration-300">
+          <div class="w-14 h-14 rounded-2xl bg-cyan-400/20 text-cyan-300 flex items-center justify-center text-2xl mb-6">⚡</div>
+          <h3 class="text-2xl font-bold mb-4">Business Automation</h3>
+          <p class="text-gray-400 leading-7">Automate workflows, analytics dashboards, and internal business systems.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Portfolio -->
+  <section class="px-6 lg:px-20 py-20 bg-white/5">
+    <div class="max-w-7xl mx-auto">
+      <div class="mb-14">
+        <p class="text-cyan-400 font-semibold mb-3">PORTFOLIO</p>
+        <h2 class="text-4xl lg:text-5xl font-black">Featured Projects</h2>
+      </div>
+
+      <div class="grid md:grid-cols-2 xl:grid-cols-3 gap-6">
+
+        <div class="rounded-[30px] overflow-hidden border border-white/10 bg-black/40">
+          <div class="h-64 bg-gradient-to-br from-cyan-400/20 to-blue-700/20 flex items-center justify-center text-7xl">
+            💻
+          </div>
+          <div class="p-7">
+            <p class="text-cyan-400 text-sm mb-2">POS System</p>
+            <h3 class="text-2xl font-bold mb-4">Restaurant Dashboard</h3>
+          </div>
+        </div>
+
+        <div class="rounded-[30px] overflow-hidden border border-white/10 bg-black/40">
+          <div class="h-64 bg-gradient-to-br from-cyan-400/20 to-blue-700/20 flex items-center justify-center text-7xl">
+            📱
+          </div>
+          <div class="p-7">
+            <p class="text-cyan-400 text-sm mb-2">Mobile App</p>
+            <h3 class="text-2xl font-bold mb-4">Delivery Tracking App</h3>
+          </div>
+        </div>
+
+        <div class="rounded-[30px] overflow-hidden border border-white/10 bg-black/40">
+          <div class="h-64 bg-gradient-to-br from-cyan-400/20 to-blue-700/20 flex items-center justify-center text-7xl">
+            🌐
+          </div>
+          <div class="p-7">
+            <p class="text-cyan-400 text-sm mb-2">Web Development</p>
+            <h3 class="text-2xl font-bold mb-4">Company Portfolio Website</h3>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="px-6 lg:px-20 py-24">
+    <div class="max-w-5xl mx-auto bg-gradient-to-r from-cyan-500 to-blue-700 rounded-[40px] p-10 lg:p-16 text-center text-black">
+      <h2 class="text-4xl lg:text-6xl font-black leading-tight mb-6">
+        Ready To Build
+        <span class="block">Your Next Project?</span>
+      </h2>
+
+      <p class="text-lg max-w-2xl mx-auto mb-8 font-medium">
+        Let Barq Smart Solutions transform your business with modern software solutions.
+      </p>
+
+      <div class="flex flex-wrap justify-center gap-4">
+        <button class="px-8 py-4 rounded-2xl bg-black text-white font-bold hover:scale-105 transition">
+          Contact Us
+        </button>
+
+        <a href="https://wa.me/201124850479" target="_blank" class="px-8 py-4 rounded-2xl border border-black/20 hover:bg-black/10 transition font-semibold inline-block">
+          WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="px-6 lg:px-20 py-10 border-t border-white/10">
+    <div class="max-w-7xl mx-auto flex flex-col lg:flex-row items-center justify-between gap-4">
+      <div>
+        <h3 class="text-2xl font-black text-cyan-400">BARQ</h3>
+        <p class="text-gray-500 mt-2">Smart Software Solutions</p>
+      </div>
+
+      <div class="flex items-center gap-6 text-gray-400">
+        <a href="#" class="hover:text-white transition">Instagram</a>
+        <a href="#" class="hover:text-white transition">Facebook</a>
+        <a href="#" class="hover:text-white transition">LinkedIn</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
